@@ -1,0 +1,10 @@
+~$
+*.o
+*.mod
+*.exe
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
